@@ -1,4 +1,4 @@
-# Eaglercraftex Contributing Guide
+# eaglercraftex Contributing Guide
 
 Thank you for your interest in contributing to eaglercraftex! We appreciate your time and effort in helping improve this project.
 
